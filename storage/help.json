@@ -1,0 +1,46 @@
+[
+  {
+    "cmd": "**>fortune**",
+    "desc": "Fortune cookie fortunes."
+  },
+  {
+    "cmd": "**>kill** @mention",
+    "desc": "Random minecraft death messages."
+  },
+  {
+    "cmd": "**>cat**",
+    "desc": "Cat pics."
+  },
+  {
+    "cmd": "**>dog**",
+    "desc": "Dog pics."
+  },
+  {
+    "cmd": "**>urban** [query]",
+    "desc": "Gets descriptions from urban dictionary"
+  },
+  {
+    "cmd": "**>roll** (# of dice) (# of sides)",
+    "desc": "RNG dice."
+  },
+  {
+    "cmd": "**>8ball** [question]",
+    "desc": "Magic 8 Ball."
+  },
+  {
+    "cmd": "**>snipe**",
+    "desc": "Sends last message deleted in channel."
+  },
+  {
+    "cmd": "**>pfp** @mention",
+    "desc": "Get profile picture of mentioned user."
+  },
+  {
+    "cmd": "**>colorme** (hex color/name)",
+    "desc": "Gives colored roles from a hex color or [web safe color](https://www.color-hex.com/color-names.html)."
+  },
+  {
+    "cmd": "**>reddit** (subreddit name) (sort by hot/top/new/rising)",
+    "desc": "Browse images from a subreddit."
+  }
+]
