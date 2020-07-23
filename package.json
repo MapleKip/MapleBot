@@ -7,13 +7,33 @@
   "description": "A simple Node app built on Express, instantly up and running.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server2.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "discord.js": "^11.5.1",
-    "color": "^3.1.1",
-    "urban": "^0.3.2"
+    "color": "^3.1.2",
+    "urban": "^0.3.2",
+    "mathjs": "^7.1.0",
+    "urban-dictionary": "^2.2.1",
+    "socialblade-data": "^0.0.6",
+    "pngjs-image": "^0.11.7",
+    "color-string": "^1.5.3",
+    "number-abbreviate": "^2.0.0",
+    "text-to-mp3": "^1.0.4",
+    "node-opus": "^0.3.2",
+    "ffmpeg": "^0.0.4",
+    "google-images": "^2.1.0",
+    "ytdl-core": "^1.0.0",
+    "googleapis": "^55.0.0",
+    "youtube-search-lib": "^2.0.0",
+    "youtube-info": "^1.3.2",
+    "stream-buffers": "^3.0.2",
+    "google-tts-api": "^0.0.4",
+    "google-translate-api": "^2.3.0",
+    "translate": "^1.1.0",
+    "quick.db": "^6.3.2",
+    "how-to-what": "^1.0.0"
   },
   "engines": {
     "node": "8.x"
